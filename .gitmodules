@@ -1,0 +1,3 @@
+[submodule "gigaparsec"]
+	path = gigaparsec
+	url = git@github.com:OliverMadine/gigaparsec.git
